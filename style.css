@@ -34,7 +34,7 @@ body {
     width: 100px;
     height: 100px;
     margin-bottom: 20px;
-    border: solid 3px var(--white);
+    border: solid 2px var(--white);
     border-radius: 50%;
 }
 
