@@ -1,1 +1,4 @@
-# rasspery.github.io
+##Portfolio website...
+- has image
+- has aboutme
+- has links
