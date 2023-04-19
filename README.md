@@ -2,3 +2,4 @@
 - has image
 - has aboutme
 - has links
+- is shit
