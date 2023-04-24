@@ -1,5 +1,2 @@
-## Portfolio website...
-- has image
-- has aboutme
-- has links
-- is shit
+# Portfolio
+**Basic websites to store all my social media account's links**
